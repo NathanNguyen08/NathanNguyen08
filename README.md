@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there! I'm Nathan, a 1st year student at UC Irvine studying Computer Science!
 
-I'm a 1st year Computer Science Major at UCI!
+I aspire to learn more about software development during my time at UCI and eventually work in the industry.
+
+I'd love to chat! Feel free to reach out to me by [LinkedIn](https://www.linkedin.com/in/nathan-p-nguyen/) or send me an [email](nathan.nguyen0815@gmail.com)!
 
 <!-- COmment
 **NathanNguyen08/NathanNguyen08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
