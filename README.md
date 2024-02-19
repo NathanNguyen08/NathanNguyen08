@@ -1,4 +1,4 @@
-### Hi there! I'm Nathan, a 1st year student at UC Irvine studying Computer Science!
+## Hi there! I'm Nathan, a 1st year student at UC Irvine studying Computer Science!
 
 I aspire to learn more about software development during my time at UCI and eventually work in the industry.
 
