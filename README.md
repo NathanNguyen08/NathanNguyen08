@@ -1,6 +1,6 @@
 ## Hi there, I'm Nathan! 
 
-I am currently a first-year student studying computer science at the University of California, Irvine!
+I am currently a third-year student studying computer science at the University of California, Irvine!
 
 I am interested in machine learning and eager to learn more about it during my time at UCI. I aspire to either pursue research in the field or work in the software development industry. In my spare time, I love playing video games, catching up on anime, and working out at the ARC. 
 
